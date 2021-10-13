@@ -1,8 +1,7 @@
 ### Hi there! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🚀 I’m currently working on with ReactJS and .NET
-- 📓 I’m currently learning more about C#, TypeScript and SQL Server
-- 💬 About me: I like technologies, watch movies and series, read books (sometimes) and cook.
+- 📓 I’m currently learning more about C#, TypeScript and SQL Server.
 
 <div align="center">
   <a href="https://github.com/cintiaoliveeira25"></a>
