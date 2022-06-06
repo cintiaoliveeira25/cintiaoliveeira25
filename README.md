@@ -1,4 +1,4 @@
-### Hi there! Welcome to my profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hi there! Welcome to my profile!
 
 <!-- - 🚀 I’m currently working on with ReactJS and .NET
 - 📓 I’m currently learning more about C#, TypeScript and SQL Server. -->
