@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my profile!
 
-- 🚀 I’m currently working on with ReactJS and Ruby on Rails
+<!-- - 🚀 I’m currently working on with ReactJS and Ruby on Rails -->
 <!-- - 📓 I’m currently learning more about C#, TypeScript and SQL Server. -->
 
 <!-- <div align="center">
